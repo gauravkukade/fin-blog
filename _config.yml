@@ -36,6 +36,10 @@ include:
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
 
+# Remove .html extension from the post/page url. 
+# https://localhost:4000/welcome-to-jekyll.html -> https://localhost:4000/welcome-to-jekyll/
+permalink: /:title/
+
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   # Minima skin selection.
