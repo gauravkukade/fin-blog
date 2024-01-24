@@ -41,6 +41,9 @@ include:
 # https://localhost:4000/welcome-to-jekyll.html -> https://localhost:4000/welcome-to-jekyll/
 permalink: /:title/
 
+# Adding this to activate Google Analytics
+google_analytics: G-ZP4036KGWY
+
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   # Minima skin selection.
