@@ -30,6 +30,14 @@ All provisions of the Terms which by their nature should survive termination sha
 ## Disclaimer
 Your use of the Service is at your sole risk. The Service is provided on an “AS IS” and “AS AVAILABLE” basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
 
+The content or post or any text, audio or video material available on this site is just for an educational purporse and not a financial advise.
+
+Investments in securities are subject to market risk.
+
+Mutual Fund investments are subject to market risks, read all scheme related documents carefully.
+
+Easy Investing Guide will not be responsible for any of your financial loss in any form. Please contact a registered financial advisor before making any investment desicions.
+
 ## Governing Law
 These Terms shall be governed and construed in accordance with the laws of India without regard to its conflict of law provisions.
 
