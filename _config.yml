@@ -44,6 +44,9 @@ permalink: /:title/
 # Adding this to activate Google Analytics
 google_analytics: G-ZP4036KGWY
 
+# Adding this to verify site at Bing Webmaster Tools
+bing_webmaster: 93DE0DE6A7742CDF8FD21B7632E3D607
+
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   # Minima skin selection.
