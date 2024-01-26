@@ -56,7 +56,7 @@ Don't expect your money tree to sprout golden apples overnight! And if the marke
 
 ### 5. Be patient. 
 
-Investing is a long-term game. Don't expect to get rich quick. Just be patient and let your investments grow over time.
+Investing is a long-term game. Don't expect to get rich quickly. Just be patient and let your investments grow over time.
 
 Investing can be tricky, but with knowledge and patience, you can turn your pennies into a fortune. So go forth, young financier, and plant the seeds of your financial future!
 
@@ -79,7 +79,7 @@ Think of your money as your superhero suit – you wouldn't jump into a volcano 
 
 ### 3. Do your research. 
 
-Before you invest in anything, make sure you understand what you're investing in.
+Before you invest in anything, you should make sure you understand what you're investing in.
 
 Before you toss your money into any investment, it's like ordering pizza without checking the toppings. Do your research! Ask adults, read articles, and understand what you're investing in. This way, you can make informed choices and avoid any "anchovies on pepperoni" surprises.
 
@@ -89,11 +89,11 @@ Before you toss your money into any investment, it's like ordering pizza without
 
 If the market goes down, don't sell your investments in a panic. Just stay calm and ride out the storm.
 
-Imagine facing a roller coaster of ups and downs, but instead of screaming, you smile and wave. That's what not panicking when the market dips is like! Markets go up and down, it's normal. Don't pull out your investments in a panic; stay calm, hold on tight, and enjoy the ride. In the long run, your investments will likely bounce back and reach even greater heights!
+Imagine facing a roller coaster of ups and downs, but instead of screaming, you smile and wave. That's what not panicking when the market dips is like! Markets go up and down it's normal. Don't pull out your investments in a panic; stay calm, hold on tight, and enjoy the ride. In the long run, your investments will likely bounce back and reach even greater heights!
 
-### 5. Play log term.
+### 5. Play long term.
 
-Investing can be a great way to grow your money over time. But it's important to remember that it's a long-term game. Don't expect to get rich quick. Just be patient and let your investments grow over time.
+Investing can be a great way to grow your money over time. But it's important to remember that it's a long-term game. Don't expect to get rich quickly. Just be patient and let your investments grow over time.
 
 Remember, these are just tips to get you started. Investing is a marathon, not a sprint, so learn, have fun, and enjoy the journey to becoming a financial rockstar!
 
