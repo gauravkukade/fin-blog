@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Save Money? (5 Ways to Build Money-Saving Habbit and 30+ Practical Hacks to Save Money)"
+title: "How To Save Money? (7 Ways to Build Money-Saving Habbit and 30+ Practical Hacks to Save Money)"
 categories: "Saving Money"
 ---
 
@@ -166,7 +166,7 @@ Saving money is a commendable goal, and being mindful about lending money to fri
 
 Remember, it's okay to prioritize your own financial goals and set boundaries when it comes to lending money. Open and honest communication is crucial in maintaining both your financial health and your relationships with friends.
 
-### 6. Don't Just Save, Invest
+### 7. Don't Just Save, Invest
 
 Investing is like planting a seed. Imagine turning your piggy bank into a treasure chest! That's what investing can do. It's like planting a seed of money. You carefully choose where to nurture it (stocks, bonds, or even real estate), and over time, with patience and care, it can blossom into something much bigger.
 
