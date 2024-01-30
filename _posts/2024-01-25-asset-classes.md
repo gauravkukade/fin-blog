@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Guide To Asset classes"
+title: "A Guide To Asset classes (8 Asset Classes To Start Investing Quickly)"
 categories: "Investing Money"
 ---
 
@@ -27,7 +27,7 @@ Bonds are debt securities issued by governments, municipalities, or corporations
 
 Relatively lower risk and steadier returns than stocks, but not as high growth potential.
 
-Governments are considered as the most secured bonds since there is a very low probability that a government will default.
+Government Bonds are considered the most secured bonds since there is a very low probability that a government will default.
 
 Corporate bonds are considered to be a little risky as compared to government bonds. Corporations can go bankrupt and may default.
 
