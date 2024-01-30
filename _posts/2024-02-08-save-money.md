@@ -21,15 +21,20 @@ Tracking expenses is a crucial step in managing your finances and building a sav
 
  Here's how you can do it and some key points to remember:
 
-1.  **How to do it:**
+####  **How to do it:**
     
-    -   **Choose a method:** You can use a simple notebook, a spreadsheet on your computer, or various mobile apps designed for expense tracking.
-    -   **Categorize expenses:** Group your expenses into categories like groceries, entertainment, bills, transportation etc., to get a clearer picture of your spending habits.
-    -   **Be consistent:** Record every expense, no matter how small. This includes both cash and card transactions. You can set a specific time of 5 minutes after dinner to add all expenses. Or you can add it just after the spending. Being consistent is important here!
-2.  **Things to remember:**
+1.   **Choose a method:** You can use a simple notebook, a spreadsheet on your computer, or various mobile apps designed for expense tracking.
+
+2.   **Categorize expenses:** Group your expenses into categories like groceries, entertainment, bills, transportation etc., to get a clearer picture of your spending habits.
+
+3.   **Be consistent:** Record every expense, no matter how small. This includes both cash and card transactions. You can set a specific time of 5 minutes after dinner to add all expenses. Or you can add it just after the spending. Being consistent is important here!
+    
+####  **Things to remember:**
     
     -   **Be honest:** Don't skip recording expenses, even if you think they're minor. Small expenses can add up and impact your overall budget.
+    
     -   **Include all spending:** Record not just regular bills but also discretionary spending like eating out, shopping, and entertainment.
+    
     -   **Review regularly:** Take time to review your recorded expenses regularly. This helps you identify patterns, areas where you can cut back, and opportunities to save.
 
 By consistently recording your expenses and being mindful of your spending, you'll gain a better understanding of your financial habits and be better equipped to make informed decisions that contribute to your savings goals.
