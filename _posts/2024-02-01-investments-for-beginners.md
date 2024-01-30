@@ -13,7 +13,7 @@ Here are some commonly recommended investments for beginners:
 
 ## Investments for beginners
 
-### 1.  Savings Accounts and Fixed Deposit (FD):
+### 1.  Savings Accounts and Certificate of Deposit (CD) or Fixed Deposit (FD):
 
 #### a. Savings Accounts
 If you want full liquidity, you can keep your money in a savings account. You can withdraw it anytime you want plus you earn a small amount of interest too.
@@ -22,7 +22,7 @@ Think of it as a super-charged piggy bank. Put your allowance here and earn a li
 
 > Bonus tip: Look for Zero Balance Accounts in banks that have good online services with no or minimum fees for young people.
 
-#### b. Fixed Deposit (FD)
+#### b. Certificate of Deposit (CD) or Fixed Deposit (FD)
 These are low-risk options that offer a fixed interest rate. While the returns may be lower than other investments, they **provide safety for your principal**.
 
 You book fixed deposits for the duration that suits you. Lee's say 6 months or 1 year. It will give you a fixed interest rate on that deposit. If you decide to break your fixed deposit before maturity, a small penalty will be deducted from the interest earned and you can get all your principal and less interest compared to the promised one.
