@@ -138,6 +138,29 @@ By making saving automatic, you remove the need for conscious effort and make sa
 
 We have seen the ways you can save money from now on! But let's have a look at some day-to-day practical things to do to save money.
 
+### 6. Avoid unnecessary Lendings
+Saving money is a commendable goal, and being mindful about lending money to friends is a wise approach to protect both your finances and relationships. Here are some tips on how to avoid unnecessary lending and things to remember:
+
+#### How to do it:
+
+1. **Set Clear Financial Goals:*** Define your financial goals and priorities. Having clear objectives will help you allocate your money to the things that matter most to you.
+   
+2. **Learn to Say No:** It's okay to say no when you are not comfortable lending money. Be polite but firm in communicating your decision.
+
+3. **Prioritize Your Financial Well-Being:** Prioritize your financial well-being and avoid compromising your own financial stability for the sake of others.
+
+#### Things to Remember:
+
+-  **Communication is Key:** If a friend asks for a loan, communicate openly about your financial situation and express any concerns you may have. Being honest about your boundaries can prevent misunderstandings.
+  
+-  **Consider Alternative Help:** Instead of providing a loan, consider offering non-financial support or assistance, such as helping them find resources, providing advice, or suggesting financial counselling.
+  
+-  **Learn from Past Experiences:** Reflect on any past experiences with lending money to friends. If you've had negative experiences, use them as lessons to inform your future decisions.
+
+-  **Protect Your Finances:** Your financial well-being should be a priority. Avoid putting yourself in a situation where lending money could compromise your own financial security.
+
+Remember, it's okay to prioritize your own financial goals and set boundaries when it comes to lending money. Open and honest communication is crucial in maintaining both your financial health and your relationships with friends.
+
 ### 6. Don't Just Save, Invest
 
 Investing is like planting a seed. Imagine turning your piggy bank into a treasure chest! That's what investing can do. It's like planting a seed of money. You carefully choose where to nurture it (stocks, bonds, or even real estate), and over time, with patience and care, it can blossom into something much bigger.
