@@ -30,12 +30,12 @@ Tracking expenses is a crucial step in managing your finances and building a sav
 3.   **Be consistent:** Record every expense, no matter how small. This includes both cash and card transactions. You can set a specific time of 5 minutes after dinner to add all expenses. Or you can add it just after the spending. Being consistent is important here!
     
 ####  **Things to remember:**
+
+-   **Be honest:** Don't skip recording expenses, even if you think they're minor. Small expenses can add up and impact your overall budget.
     
-    -   **Be honest:** Don't skip recording expenses, even if you think they're minor. Small expenses can add up and impact your overall budget.
+-   **Include all spending:** Record not just regular bills but also discretionary spending like eating out, shopping, and entertainment.
     
-    -   **Include all spending:** Record not just regular bills but also discretionary spending like eating out, shopping, and entertainment.
-    
-    -   **Review regularly:** Take time to review your recorded expenses regularly. This helps you identify patterns, areas where you can cut back, and opportunities to save.
+-   **Review regularly:** Take time to review your recorded expenses regularly. This helps you identify patterns, areas where you can cut back, and opportunities to save.
 
 By consistently recording your expenses and being mindful of your spending, you'll gain a better understanding of your financial habits and be better equipped to make informed decisions that contribute to your savings goals.
 
