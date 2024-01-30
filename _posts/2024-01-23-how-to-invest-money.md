@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Invest Money"
+title: "How To Invest Money? (Get Started Investing with 5 Investing Tips)"
 categories: "Investing Money"
 ---
 
