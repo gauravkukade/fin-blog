@@ -9,7 +9,7 @@ comments: false
 ## Who we are
 [Easy Investing Guide](/) is a blog about personal finance, investing and saving money.
 
-Our website address is: https://easyinvestingguide.com. and your are at our privacy page https://easyinvestingguide.com/privacy.
+Our website address is: https://easyinvestingguide.com. and your are at our privacy page https://easyinvestingguide.com/privacy/.
 
 ## What personal data we collect and why we collect it
 ### Comments
