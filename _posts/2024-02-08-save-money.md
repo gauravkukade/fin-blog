@@ -271,97 +271,97 @@ Adjust the temperature settings in your home to optimize comfort and energy effi
 
 Imagine you have an adjustable air conditioner in your home. During the winter, you set the air condition a bit lower when you're away or at night when you're under the blankets. In the summer, you can set it off automatically. These adjustments help reduce the amount of heating or cooling your system needs to do, resulting in lower energy consumption and reduced utility bills. By being mindful of your air condition settings, you can create a comfortable living environment while still being energy-efficient and cost-effective.
 
-### 18. Use Ceiling Fans
+### 17. Use Ceiling Fans
 
 You can use ceiling fans in your home to improve air circulation. This can help maintain a comfortable temperature and reduce reliance on heating or cooling systems.
 
 Imagine it's a warm day, and you want to cool down a room. Instead of immediately turning on the air conditioner, you switch on the ceiling fan. The fan helps circulate air, creating a breeze that makes the room feel cooler. By using ceiling fans strategically, you can distribute air more efficiently, allowing you to set your thermostat a bit higher in the summer without sacrificing comfort. This results in energy savings and lower electricity bills. Ceiling fans are a cost-effective and energy-efficient way to enhance comfort in your home.
 
-### 19. Open a High-Yield Savings Account
+### 18. Open a High-Yield Savings Account
 
 Put your money in a savings account that offers a higher interest rate compared to traditional savings accounts. This helps your money grow faster over time.
 
 Imagine you have $1,000 that you want to save. If you put it in a regular savings account with a 0.5% interest rate, you'll earn $5 in a year. However, if you open a high-yield savings account with a 2% interest rate, you would earn $20 in the same period. The higher interest rate allows your savings to accumulate more quickly. While interest rates can vary, high-yield savings accounts typically offer better returns on your savings compared to standard accounts. This makes them a smart choice for people looking to grow their savings over time.
 
-### 20. Opt for Low Rent Property
+### 19. Opt for Low Rent Property
 
 Find ways to reduce your housing expenses for a short period. This might include negotiating with your landlord, exploring temporary living arrangements, or downsizing.
 
 Imagine you're in a situation where your current rent is a significant portion of your budget, and you're saving up for a specific financial goal, like buying a house. You might talk to your landlord and see if there's a possibility to reduce your rent temporarily, perhaps in exchange for a longer lease commitment. Alternatively, you might consider downsizing to a smaller, more affordable place for a limited time. Temporarily cutting down on rent allows you to allocate more funds towards your savings goal. It's a strategy to free up money in the short term without making a permanent change to your living situation.
 
-### 21. Save on Transportation
+### 20. Save on Transportation
 
 You should find ways to reduce the costs associated with commuting and travel. This might include using public transportation, carpooling, biking, or walking instead of relying solely on personal vehicles.
 
 Imagine you typically drive to work every day and spend a significant amount on gas, parking, and maintenance. To save on transportation, you decide to try carpooling with a colleague or using public transportation a few times a week. By doing so, you cut down on fuel expenses, reduce wear and tear on your car, and possibly save on parking fees. Alternatively, if possible, you might choose to bike or walk for short distances, eliminating fuel costs. Saving on transportation not only helps your budget but can also reduce your environmental impact. It's a practical way to cut down on daily expenses and contribute to a more sustainable lifestyle.
 
-### 22. Round Up Your Spending
+### 21. Round Up Your Spending
 
 "Round Up Your Spending" involves rounding up your purchases to the nearest whole dollar and saving the spare change. This small change can add up over time, contributing to your savings.
 
 Imagine you purchase $18.50. Instead of recording this as an $18.50 expense, you round it up to $19 and save the extra $0.50. If you consistently round up your spending and set aside the extra change, you create a savings fund over time. This can be done manually or through apps that automatically round up your transactions and transfer the rounded-up amount to your savings account. Rounding up your spending is a simple and painless way to save a little extra money regularly. It may seem small, but these accumulated rounded-up amounts can grow into a significant savings fund.
 
-### 23. Cancel Subscriptions
+### 22. Cancel Subscriptions
 
 You should be reviewing and discontinuing any recurring payments for services or memberships that you no longer use or need. This helps free up funds that can be redirected toward savings or other financial goals.
 
 Imagine you have subscriptions to several streaming services, a gym membership, and a monthly magazine subscription. However, you find that you rarely use the gym, watch all the streaming services, or read the magazine. By cancelling the unused subscriptions, you stop unnecessary monthly expenses. The money previously allocated to these subscriptions can now be redirected to savings or other priorities. Regularly reviewing your subscriptions ensures that you're only paying for services you actively use and value. Cancelling subscriptions is a straightforward way to cut down on recurring expenses and optimize your budget.
 
-### 24. Have a 'No Spend' Weekend
+### 23. Have a 'No Spend' Weekend
 
 You should intentionally avoid any non-essential spending during a specific weekend. This can help reset spending habits, save money, and encourage more mindful consumption.
 
 Imagine you decide to have a 'No Spend' Weekend. During this time, you commit to not spending money on non-essential items such as eating out, shopping, or entertainment that require payment. Instead, you focus on free or low-cost activities like cooking at home, taking a walk in the park, or enjoying a movie night with items you already have. The goal is to consciously avoid unnecessary expenditures for a short period, allowing you to save money and reassess your spending habits. 'No Spend' Weekends are a practical way to break the cycle of impulsive spending and redirect funds toward your savings goals.
 
-### 25. Pick an Off-Peak Date
+### 24. Pick an Off-Peak Date
 
 You should choose a date for an event, activity, or purchase during a time when demand is lower. This can often lead to cost savings as prices may be reduced during off-peak periods.
 
 Imagine you're planning a vacation, and you have flexibility in choosing your travel dates. If you decide to travel during the off-peak season, such as avoiding school holidays or major events, you may find that flight and accommodation prices are lower. Choosing an off-peak date allows you to enjoy the same experience at a more affordable cost. This principle applies not only to travel but also to various activities like dining out, attending events, or even scheduling home renovations. Picking off-peak dates can be a smart financial strategy to get the best value for your money.
 
-### 26. DIY Decorations
+### 25. DIY Decorations
 
 "DIY Decorations" stands for "Do It Yourself" decorations. Instead of purchasing pre-made decorations, you create your own, often using materials you already have or low-cost supplies. This helps save money on decor while allowing for a personalized touch.
 
 Imagine you're planning a celebration, like a birthday party. Rather than buying expensive decorations from a party store, you decide to make your own. You create banners, centrepieces, and other decorations using items like coloured paper, string, and recycled materials. By doing this, you not only save money on store-bought decorations but also add a unique and personal touch to the event. DIY decorations can be as simple or elaborate as you choose, and they offer a budget-friendly way to enhance the aesthetics of various occasions without breaking the bank.
 
-### 27. Choose a Non-Traditional Venue
+### 26. Choose a Non-Traditional Venue
 
 You should select a location for an event, such as a wedding or party, that is not the typical or conventional choice. Non-traditional venues can often be more cost-effective.
 
 Imagine you're planning a wedding. Instead of booking a traditional wedding venue, like a banquet hall, you decide to have your ceremony and reception at a non-traditional location, such as a park, a beach, or even a unique indoor space like an art gallery or loft. Non-traditional venues may have lower rental costs, and they often provide a distinctive and memorable setting for your event. By choosing a less conventional location, you can potentially save money while creating a unique and special atmosphere for your celebration. This approach is a practical way to cut down on venue expenses without compromising on the overall experience.
 
-### 28. Limit the Guest List
+### 27. Limit the Guest List
 
 You should intentionally keep the number of people invited to an event, such as a wedding, to a smaller, more manageable size. A smaller guest list can lead to cost savings on various aspects of the event.
 
 Imagine you're planning a wedding, and you have a long list of friends, extended family, and acquaintances you could invite. Instead of inviting everyone, you decide to limit the guest list to close family and friends. By doing this, you reduce the overall cost of the event, including expenses related to catering, venue size, and possibly even invitations. A smaller guest list allows you to focus on quality interactions with those closest to you while also making the event more budget-friendly. Limiting the guest list is a practical way to control expenses and create a more intimate atmosphere for your special occasion.
 
-### 29. Buy a Pre-Owned Dress
+### 28. Buy a Pre-Owned Dress
 
 You should choose a second-hand or used dress instead of purchasing a brand-new one. This is often a more cost-effective option, especially for special occasions.
 
 Imagine you're looking for a dress for a formal event, such as a wedding. Instead of buying a brand-new dress from a boutique, you decide to explore pre-owned options. You might find a beautiful, gently-used dress that suits your style at a lower cost. By buying pre-owned, you not only save money but also contribute to sustainable and eco-friendly fashion practices. Many pre-owned dresses are in excellent condition and can be a more budget-friendly choice for special occasions. Buying pre-owned clothing is a practical way to find high-quality items at a fraction of the cost of new ones.
 
-### 30. Serve a Signature Drink
+### 29. Serve a Signature Drink
 
 You should choose a specific, unique beverage to offer at an event, such as a wedding. This can be a cost-effective alternative to a full open bar, providing a personalized touch while managing expenses.
 
 Imagine you're planning a wedding reception. Instead of offering a full bar with a wide variety of drinks, you decide to create a signature drink for the event. This could be a special cocktail named after the couple or a unique combination of flavours that reflect the theme of the wedding. By serving a signature drink, you simplify the drink options, potentially reducing costs associated with a full bar service. Guests still have a special and memorable beverage to enjoy, and you save money on the overall bar expenses. Serving a signature drink is a creative way to add a personal touch to your event while being mindful of the budget.
 
-### 31. Get Creative With Your Food Menu
+### 30. Get Creative With Your Food Menu
 
 You should explore unique and cost-effective options for event catering or meals. This allows you to provide delicious and memorable food while managing expenses.
 
 Imagine you're planning a wedding reception, and you want to serve a memorable and delicious meal without breaking the budget. Instead of opting for an elaborate multi-course dinner, you decide to get creative with the menu. This could involve choosing more affordable but flavorful ingredients, considering buffet or family-style service, or exploring non-traditional food options. For example, you might have a taco bar, a pasta station, or a variety of appetizers that guests can enjoy. By being creative with the food menu, you can offer a unique culinary experience that fits your budget. Creative menu options not only save costs but also add a fun and personalized element to the event.
 
-### 32. Skip the DJ
+### 31. Skip the DJ
 
 You should opt out of hiring a professional disc jockey for your event, such as a wedding or party. Instead, you may choose alternative music options to save on entertainment costs.
 
 Imagine you're planning a celebration, and you're looking for ways to cut down on expenses. Instead of hiring a DJ, you decide to create playlists with your favorite songs or ask friends to curate music for different parts of the event. You might also consider using a sound system or even hiring a local band or musician for live entertainment. By skipping the DJ and exploring alternative music options, you can significantly reduce entertainment costs while still providing a fun and enjoyable atmosphere for your guests. This approach allows you to tailor the music to your preferences and budget. Skipping the DJ is a cost-effective way to manage expenses while maintaining a lively and entertaining event.
 
-### 33. Look for Coupons and Promo Codes
+### 32. Look for Coupons and Promo Codes
 
 You should actively search for discounts and promotional codes before making purchases. This can help you save money on various goods and services.
 
