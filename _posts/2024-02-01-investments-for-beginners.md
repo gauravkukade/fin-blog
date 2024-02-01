@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Investment Guide for Complete Beginners (Top 6 Investment Opportunites Beginners Can Start With!)"
-categories: "Investing Money"
+categories: "Investing"
 ---
 In the previous articles, we have learned about how to [invest money](/invest-money). In This article, we will see the top 6 investment opportunities for beginners to start with!
 ## Introduction
