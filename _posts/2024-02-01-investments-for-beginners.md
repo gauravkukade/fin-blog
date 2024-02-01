@@ -3,7 +3,7 @@ layout: post
 title: "Investment Guide for Complete Beginners (Top 6 Investment Opportunites Beginners Can Start With!)"
 categories: "Investing Money"
 ---
-In the previous articles, we have learned about how to [save money](/save-money/) and [invest money](/invest-money). In This article, we will see the top 6 investment opportunities for beginners to start with!
+In the previous articles, we have learned about how to [invest money](/invest-money). In This article, we will see the top 6 investment opportunities for beginners to start with!
 ## Introduction
 For beginners, it's generally advisable to start with relatively straightforward investments, lower in risk, and easier to understand. 
 
