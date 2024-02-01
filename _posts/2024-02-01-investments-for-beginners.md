@@ -3,7 +3,7 @@ layout: post
 title: "Investment Guide for Complete Beginners (Top 6 Investment Opportunites Beginners Can Start With!)"
 categories: "Investing Money"
 ---
-
+In the previous articles, we have learned about how to [save money](/save-money/) and [invest money](/invest-money). In This article, we will see the top 6 investment opportunities for beginners to start with!
 ## Introduction
 For beginners, it's generally advisable to start with relatively straightforward investments, lower in risk, and easier to understand. 
 
@@ -62,14 +62,14 @@ To invest in other asset classes you should have some extra money in your pocket
 
 If you are young and barely managing all your expenses with no or very little money left for investment, it is really hard to make wealth or a good portfolio by investing.
 
-So **Learning new skills or getting a good education is the best investment you can make in yourself!** It opens doors to better jobs and higher earnings in the future.
+So Learning new skills or getting a good education is the best investment you can make in yourself! It opens doors to better jobs and higher earnings in the future.
 
 Once you start saving more, you can invest this money in the above asset classes.
 
     
 ## Conclusion
 
-Beginners need to focus on building a diversified portfolio that aligns with their financial goals, risk tolerance, and time horizon. Additionally, **educating yourself about basic investment principles and seeking advice from financial professionals can help you make informed decisions.** Always be cautious of high-risk or complex investments, and consider starting with a small amount of money until you become more comfortable with the investment landscape.
+Beginners need to focus on building a diversified portfolio that aligns with their financial goals, risk tolerance, and time horizon. Additionally, educating yourself about basic investment principles and seeking advice from financial professionals can help you make informed decisions. Always be cautious of high-risk or complex investments, and consider starting with a small amount of money until you become more comfortable with the investment landscape.
 
 **Things to remember:**
 
