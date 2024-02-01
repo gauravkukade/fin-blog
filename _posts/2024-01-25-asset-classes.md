@@ -4,7 +4,7 @@ title: "A Guide To Asset classes (8 Asset Classes To Start Investing Quickly)"
 categories: "Investing Money"
 ---
 
-In the previous article, we have seen [How to invest your money](/how-to-invest-money/). In this article, we will see where to invest your money. So Let's see a few asset classes to invest your money.
+In the previous article, we have seen [How to invest your money](/invest-money/). In this article, we will see where to invest your money. So Let's see a few asset classes to invest your money.
   
 ## What are asset classes?
 Asset classes are **categories of financial instruments or investments** that share similar characteristics and behave similarly in the financial markets. Diversifying your investments across various asset classes is a common strategy to manage risk and potentially enhance returns.
@@ -29,7 +29,7 @@ Relatively lower risk and steadier returns than stocks, but not as high growth p
 
 Government Bonds are considered the most secured bonds since there is a very low probability that a government will default.
 
-Corporate bonds are considered to be a little risky as compared to government bonds. Corporations can go bankrupt and may default.
+Corporate bonds are considered to be risky as compared to government bonds. Corporations can go bankrupt and may default.
 
 Imagine lending your bike to a friend (government or company) – they pay you rent (interest) for using it, and you get it back eventually.
 
