@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How To Invest Money? (Get Started Investing with 5 Investing Tips)"
-categories: "Investing Money"
+title: "How To Invest Money? (Get Started Investing with 5 Simple Investing Tips)"
+categories: "Investing"
 ---
 
 Investing can be a great way to grow your money over time. But it can be confusing to know where to start. This article will give you a simple overview of how to invest as a beginner.
