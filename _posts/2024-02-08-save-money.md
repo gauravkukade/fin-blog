@@ -170,7 +170,7 @@ Remember, it's okay to prioritize your own financial goals and set boundaries wh
 
 Investing is like planting a seed. Imagine turning your piggy bank into a treasure chest! That's what investing can do. It's like planting a seed of money. You carefully choose where to nurture it (stocks, bonds, or even real estate), and over time, with patience and care, it can blossom into something much bigger.
 
-You can start investing small, see [How to invest Money?](/how-to-invest-money/)
+You can start investing small, see [How to invest Money?](/invest-money/)
 
 It's simple: grow your money, reach your dreams, and have fun doing it!
 
@@ -359,7 +359,7 @@ Imagine you're planning a wedding reception, and you want to serve a memorable a
 
 You should opt out of hiring a professional disc jockey for your event, such as a wedding or party. Instead, you may choose alternative music options to save on entertainment costs.
 
-Imagine you're planning a celebration, and you're looking for ways to cut down on expenses. Instead of hiring a DJ, you decide to create playlists with your favorite songs or ask friends to curate music for different parts of the event. You might also consider using a sound system or even hiring a local band or musician for live entertainment. By skipping the DJ and exploring alternative music options, you can significantly reduce entertainment costs while still providing a fun and enjoyable atmosphere for your guests. This approach allows you to tailor the music to your preferences and budget. Skipping the DJ is a cost-effective way to manage expenses while maintaining a lively and entertaining event.
+Imagine you're planning a celebration, and you're looking for ways to cut down on expenses. Instead of hiring a DJ, you decide to create playlists with your favourite songs or ask friends to curate music for different parts of the event. You might also consider using a sound system or even hiring a local band or musician for live entertainment. By skipping the DJ and exploring alternative music options, you can significantly reduce entertainment costs while still providing a fun and enjoyable atmosphere for your guests. This approach allows you to tailor the music to your preferences and budget. Skipping the DJ is a cost-effective way to manage expenses while maintaining a lively and entertaining event.
 
 ### 32. Look for Coupons and Promo Codes
 
