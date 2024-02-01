@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Guide To Asset classes (8 Asset Classes To Start Investing Quickly)"
-categories: "Investing Money"
+categories: "Investing"
 ---
 
 In the previous article, we have seen [How to invest your money](/invest-money/). In this article, we will see where to invest your money. So Let's see a few asset classes to invest your money.
