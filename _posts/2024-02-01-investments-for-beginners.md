@@ -16,14 +16,14 @@ Here are some commonly recommended investments for beginners:
 ### 1.  Savings Accounts and Certificate of Deposit (CD) or Fixed Deposit (FD):
 
 #### a. Savings Accounts
-If you want full liquidity, you can keep your money in a savings account. You can withdraw it anytime you want plus you earn a small amount of interest too.
+You can keep your money in a savings account if you want maximum liquidity. You can withdraw it anytime you want plus you earn a small amount of interest too.
 
 Think of it as a super-charged piggy bank. Put your allowance here and earn a little interest, like tiny rewards for keeping your money safe.
 
 > Bonus tip: Look for Zero Balance Accounts in banks that have good online services with no or minimum fees for young people.
 
 #### b. Certificate of Deposit (CD) or Fixed Deposit (FD)
-These are low-risk options that offer a fixed interest rate. While the returns may be lower than other investments, they **provide safety for your principal**.
+These are low-risk options that offer a fixed interest rate. While the returns may be lower than other investments, they provide safety for your principal.
 
 You book fixed deposits for the duration that suits you. Lee's say 6 months or 1 year. It will give you a fixed interest rate on that deposit. If you decide to break your fixed deposit before maturity, a small penalty will be deducted from the interest earned and you can get all your principal and less interest compared to the promised one.
 
@@ -49,13 +49,13 @@ Bond funds invest in a variety of bonds, offering a fixed income stream through 
 
 Government Bonds are considered the most secured bonds since there is a very low probability that a government will default.
 
-Corporate bonds are considered to be a little risky as compared to government bonds. Corporations can go bankrupt and may default.
+Corporate bonds are considered to be risky as compared to government bonds. Corporations can go bankrupt and may default.
 
 ### 5. Real Estate Investment Trusts (REITs): 
 
 Investors, who are interested in the real estate sector can invest in REITs. REITs are the companies that own and manage income-generating real estate.
 
-By investing in REITs you do not have to manage physical properties. The investment amount will be less as compared to purchasing a real piece of land or property.
+By investing in REITs you do not have to manage physical properties. The investment amount will be less than purchasing a real piece of land or property.
 
 ### 6. Educational Investments:
 To invest in other asset classes you should have some extra money in your pocket.
