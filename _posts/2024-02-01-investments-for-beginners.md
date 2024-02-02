@@ -3,7 +3,7 @@ layout: post
 title: "Investment Guide for Complete Beginners (Top 6 Investment Opportunites Beginners Can Start With!)"
 categories: "Investing"
 ---
-In the previous articles, we have learned about how to [invest money](/invest-money). In This article, we will see the top 6 investment opportunities for beginners to start with!
+In the previous articles, we have learned about how to [invest money](/invest-money). In this article, we will see the top 6 investment opportunities for beginners to start with!
 ## Introduction
 For beginners, it's generally advisable to start with relatively straightforward investments, lower in risk, and easier to understand. 
 
@@ -16,7 +16,7 @@ Here are some commonly recommended investments for beginners:
 ### 1.  Savings Accounts and Certificate of Deposit (CD) or Fixed Deposit (FD):
 
 #### a. Savings Accounts
-You can keep your money in a savings account if you want maximum liquidity. You can withdraw it anytime you want plus you earn a small amount of interest too.
+You can keep your money in a savings account for maximum liquidity. You can withdraw it anytime you want plus you earn a small amount of interest too.
 
 Think of it as a super-charged piggy bank. Put your allowance here and earn a little interest, like tiny rewards for keeping your money safe.
 
@@ -25,7 +25,7 @@ Think of it as a super-charged piggy bank. Put your allowance here and earn a li
 #### b. Certificate of Deposit (CD) or Fixed Deposit (FD)
 These are low-risk options that offer a fixed interest rate. While the returns may be lower than other investments, they provide safety for your principal.
 
-You book fixed deposits for the duration that suits you. Lee's say 6 months or 1 year. It will give you a fixed interest rate on that deposit. If you decide to break your fixed deposit before maturity, a small penalty will be deducted from the interest earned and you can get all your principal and less interest compared to the promised one.
+You book fixed deposits for the duration that suits you. Lee's say 6 months or 1 year. It will give you a fixed interest rate on that deposit. If you decide to break your fixed deposit before maturity, a small penalty will be deducted from the interest earned, and you can get all your principal and less interest compared to the promised one.
 
 ### 2.  Stock Market Index Funds or ETFs:
 
@@ -73,7 +73,7 @@ Beginners need to focus on building a diversified portfolio that aligns with the
 
 **Things to remember:**
 
-- Start small and build your confidence gradually.
+-   Start small and build your confidence gradually.
 -   Do your research, even if it means asking adults for help.
 -   Never invest money you can't afford to lose.
 -   Diversify your investments, like spreading your snacks between cookies and fruits.
