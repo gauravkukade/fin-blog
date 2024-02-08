@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Save Money? (7 Ways to Build Money-Saving Habbit and 30+ Practical Hacks to Save Money)"
+title: "How To Save Money? (7 Ways to Build Money-Saving Habbit and 32 Practical Hacks to Save Money)"
 categories: "Saving"
 ---
 
