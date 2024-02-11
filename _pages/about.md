@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The blog about personal finance, investing and saving money.
+The blog is about personal finance, investing and saving money.
 
 Many people seek guidance about personal finance, investing, and saving money because they may not fully understand how to manage their money effectively. 
 
@@ -24,4 +24,4 @@ Ultimately, people want to feel secure about their finances and build wealth for
 
 Seeking guidance ensures that you make informed decisions, achieve your goals, and secure your financial future.
 
-At [EasyInvestingGuide](https://easyinvestingguide.com) we try to educate people on personal finance, investing, savings and any other aspect of the money. One thing to keep in mind that all the content is just for educational purpose and does not give any financial advises. Read the [terms and conditions](/terms) carefully.
+At [EasyInvestingGuide](https://easyinvestingguide.com) we try to educate people on personal finance, investing, savings and any other aspect of the money. One thing to keep in mind is that all the content is just for educational purposes and does not give any financial advice. Read the [terms and conditions](/terms) carefully.
