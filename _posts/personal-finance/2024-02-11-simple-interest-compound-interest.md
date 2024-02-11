@@ -6,11 +6,11 @@ categories: "Personal Finance"
 
 ## Introduction
 
-Interest calculation is a fundamental concept in personal finance to achieve goals andtake informed desicions. 
+Interest calculation is a fundamental concept in personal finance to achieve goals and make informed decisions. 
 
 In this article, we will learn about the Simple Interest and Compound Interest calculation with examples. Later, we will also see the difference between Simple Interest and Compound Interest.
 
-## Why Interest Calculation is Important In Your Personal Finanace Journey?
+## Why Interest Calculation is Important In Your Personal Finance Journey?
 
 Interest calculation is a fundamental concept in personal finance for several reasons:
 
@@ -236,4 +236,4 @@ Understanding the differences between simple interest and compound interest is c
 
 Overall, interest calculation is a foundational concept in personal finance that empowers individuals to make informed decisions about borrowing, saving, investing, and budgeting, ultimately helping them achieve their financial goals and build long-term financial stability.
 
-With the help of formulas and elaborated examples we haev learned how to calculated Simple Interest and Compound Interest.
+With the help of formulas and elaborated examples, we have learned how to calculate Simple Interest and Compound Interest.
