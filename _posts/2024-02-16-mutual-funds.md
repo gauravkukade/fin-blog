@@ -21,7 +21,7 @@ Mutual funds offer investors instant diversification because the fund's assets a
 
 When one investment underperforms, others may outperform, helping to offset losses. For example, if a mutual fund invests in a variety of sectors, such as technology, healthcare, and consumer goods, the risk associated with any single sector's performance is mitigated.
 
-#### Types of Diversification:
+#### a. Types of Diversification:
 
 ##### 1. Asset Allocation:
 Mutual funds can diversify across different asset classes such as stocks, bonds, cash equivalents, and sometimes alternative assets like real estate or commodities.
@@ -32,7 +32,7 @@ Funds can invest in securities from different regions or countries, reducing the
 ##### 3. Sector Diversification:
 Funds can invest in various industries or sectors, such as technology, healthcare, finance, etc., to reduce exposure to any single industry's risks.
 
-#### Benefits of Diversification:
+#### b. Benefits of Diversification:
 
 ##### 1. Risk Reduction:
 Diversification helps reduce the impact of volatility and market downturns on an investment portfolio.
@@ -43,7 +43,7 @@ While diversification cannot eliminate all risks, it can potentially improve ris
 ##### 3. Simplicity:
 For individual investors, mutual funds offer a convenient way to achieve diversification without having to manage multiple investments individually.
 
-#### Things to take care of in Diversification:
+#### c. Things to take care of in Diversification:
 
 ##### 1. Over-Diversification:
 While diversification is beneficial, it's possible to over-diversify a portfolio, which can dilute potential returns. Finding the right balance is key.
