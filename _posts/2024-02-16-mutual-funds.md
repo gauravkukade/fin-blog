@@ -90,12 +90,17 @@ NAV = (Total Assets - Total Liabilities) / Number of Outstanding Shares
 Let's consider a mutual fund with the following details:
 
 Total Assets: $10,000,000
+
 Total Liabilities: $500,000
+
 Number of Outstanding Shares: 1,000,000
 
 Using the formula:
+
 NAV = ($10,000,000 - $500,000) / 1,000,000
+
 NAV = $9,500,000 / 1,000,000
+
 NAV = $9.50
 
 So, the Net Asset Value (NAV) of the mutual fund is $9.50 per share.
